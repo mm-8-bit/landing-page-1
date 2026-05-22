@@ -2610,3 +2610,7 @@ textarea.editor-post-text-editor:-ms-input-placeholder{
 .editor-fields-content-preview__empty{
   text-align:center;
 }
+
+* {
+    font-family: 'Neue Machina', sans-serif !important;
+}
