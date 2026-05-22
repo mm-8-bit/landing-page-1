@@ -15,6 +15,29 @@ Requires License: no
 Text Domain: consulting-blocks
 Tags: grid-layout, one-column, two-columns, right-sidebar, left-sidebar, custom-colors, sticky-post, threaded-comments, wide-blocks, block-patterns, block-styles, translation-ready, rtl-language-support, custom-menu, custom-background, custom-header, custom-logo, editor-style, featured-images, full-site-editing, full-width-template, template-editing, style-variations, blog, portfolio, three-columns, four-columns, footer-widgets, news
 */
+@font-face {
+    font-family: 'Neue Machina';
+    src: url('https://focusonfluency.com/wp-content/uploads/fonts/NeueMachina-Light.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neue Machina';
+    src: url('https://focusonfluency.com/wp-content/uploads/fonts/NeueMachina-Regular.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neue Machina';
+    src: url('https://focusonfluency.com/wp-content/uploads/fonts/NeueMachina-Ultrabold.otf') format('opentype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
 
 /*
  * Font smoothing.
